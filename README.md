@@ -1,2 +1,3 @@
 # node-upload-demo
-Demo of image upload through Node.js
+
+一个极简单的图片上传接口实现
