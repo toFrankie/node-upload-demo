@@ -6,7 +6,7 @@
 ```
 $ git clone git@github.com:toFrankie/node-upload-demo.git
 ```
-2. 按照依赖包
+2. 安装依赖包
 ```
 $ npm install
 ```
